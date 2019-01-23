@@ -15,7 +15,7 @@ type: page
 
 
 
-主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
+主要兴趣集中在hou端开发,虽然后端没有前端有意思,但是我更倾向于后端。同时，将自己构想的内容实现出来，这种感觉很愉快。
 
 热爱美好的事物，热爱摇滚乐
 
@@ -27,7 +27,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/zyc8662891)
+* GitHub：[zyc8662891](https://github.com/zyc8662891)
 * email：2748459531@qq.com
 * [Weibo](http://weibo.com/zhyich)
 * [知乎](https://www.zhihu.com/people/zyc8662891)
