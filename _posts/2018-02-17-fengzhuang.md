@@ -1,10 +1,10 @@
 ---
 layout: post
-author: ZYC
 title:  "python之封装"
 date:   2018-02-17 22:14:54
 categories: python
 tags: 封装 装饰器
+author: ZYC
 ---
 
 * content
@@ -22,7 +22,8 @@ python中的权限分为两种
 
 	1.公开 外界可以直接访问和修改
 	
-	2.私有 外界不能直接访问和修改,在当前类中可以直接修改和访问
+	2.私有 外界不能直接访问和修改,在当前类中可以直接修改和访问       
+????           	
 
 ### 2.为什么需要封装
 
